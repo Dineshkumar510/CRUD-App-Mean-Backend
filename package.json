@@ -1,10 +1,12 @@
 {
   "name": "curd-app-mean",
   "version": "1.0.0",
-  "description": "",
+  "description": "a really cool app",
   "main": "server.js",
+  "engines": {
+    "node": "12.11.1"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "keywords": [],
